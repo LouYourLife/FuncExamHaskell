@@ -1,10 +1,10 @@
 -- It is generally a good idea to keep all your business logic in your library
 -- and only use it in the executable. Doing so allows others to use what you
 -- wrote in their libraries.
-import qualified TestMe
+import qualified Drawing
 
 main :: IO ()
-main = TestMe
+main = Drawing
 
 -- cabal repl (start and run code in bash, will load all modules added in cabal file)
 -- :show modules (viser hvad der er loaded og kan bruges)

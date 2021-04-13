@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c5e3042c-fcd6-4a0b-80e2-1b41f4660e18" name="Default Changelist" comment="" />
+    <list default="true" id="c5e3042c-fcd6-4a0b-80e2-1b41f4660e18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/library/Drawing.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist-newstyle/build/x86_64-windows/ghc-9.0.1/haskBack-0.0.0/cache/config" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-windows/ghc-9.0.1/haskBack-0.0.0/cache/config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist-newstyle/build/x86_64-windows/ghc-9.0.1/haskBack-0.0.0/setup-config" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-windows/ghc-9.0.1/haskBack-0.0.0/setup-config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist-newstyle/cache/config" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/cache/config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist-newstyle/cache/elaborated-plan" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/cache/elaborated-plan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist-newstyle/cache/improved-plan" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/cache/improved-plan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist-newstyle/cache/plan.json" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/cache/plan.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist-newstyle/cache/solver-plan" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/cache/solver-plan" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist-newstyle/cache/source-hashes" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/cache/source-hashes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/executable/Main.hs" beforeDir="false" afterPath="$PROJECT_DIR$/executable/Main.hs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/package.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +36,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1qZ2xo2zJ4KE4E0RRlMR5rWb4n3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -48,11 +65,19 @@
       <option name="presentableId" value="Default" />
       <updated>1617273040279</updated>
       <workItem from="1617273042472" duration="2067000" />
-      <workItem from="1618237003779" duration="552000" />
+      <workItem from="1618237003779" duration="1563000" />
+      <workItem from="1618249065737" duration="1564000" />
+      <workItem from="1618329451824" duration="134000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1618329513785">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1618329513785" />
   </component>
 </project>

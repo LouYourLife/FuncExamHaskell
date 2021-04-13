@@ -32,6 +32,7 @@ executables:
     dependencies:
     - base
     - haskBack
+    - gloss
     ghc-options:
     - -rtsopts
     - -threaded
