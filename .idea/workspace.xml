@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5e3042c-fcd6-4a0b-80e2-1b41f4660e18" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/library/Drawing.hs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist-newstyle/build/x86_64-windows/ghc-9.0.1/haskBack-0.0.0/cache/config" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-windows/ghc-9.0.1/haskBack-0.0.0/cache/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist-newstyle/build/x86_64-windows/ghc-9.0.1/haskBack-0.0.0/setup-config" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/build/x86_64-windows/ghc-9.0.1/haskBack-0.0.0/setup-config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist-newstyle/cache/config" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/cache/config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist-newstyle/cache/elaborated-plan" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/cache/elaborated-plan" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dist-newstyle/cache/improved-plan" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/cache/improved-plan" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist-newstyle/cache/plan.json" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/cache/plan.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist-newstyle/cache/solver-plan" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/cache/solver-plan" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist-newstyle/cache/source-hashes" beforeDir="false" afterPath="$PROJECT_DIR$/dist-newstyle/cache/source-hashes" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/executable/Main.hs" beforeDir="false" afterPath="$PROJECT_DIR$/executable/Main.hs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/package.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +59,7 @@
       <workItem from="1617273042472" duration="2067000" />
       <workItem from="1618237003779" duration="1563000" />
       <workItem from="1618249065737" duration="1564000" />
-      <workItem from="1618329451824" duration="134000" />
+      <workItem from="1618329451824" duration="1132000" />
     </task>
     <servers />
   </component>
