@@ -2,5 +2,8 @@ module Drawing where
 
 import Graphics.Gloss
 
+windowDisplay :: Display
+windowDisplay = InWindow "Window" (200, 200) (10, 10)
+
 main :: IO ()
-main = display FullScreen white (Circle 80)
+main = display windowDisplay white (Circle 80)
